@@ -8,6 +8,6 @@ No extra apps, no complicated setup, just some PowerShell and tools that are alr
 
 ## What It Looks Like in Action
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/882539e1-7913-4167-bbcb-b02b87c8878d" />
+<img width="1614" height="912" alt="Screenshot 2026-08-23 150608" src="https://github.com/user-attachments/assets/3d40e804-d0c6-455b-9935-fcedf73b7bc3" />
 
 ---
