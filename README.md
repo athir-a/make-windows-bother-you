@@ -6,7 +6,7 @@ Set a message, pick when you want it to show up. You can use it for reminders, a
 
 No extra apps, no complicated setup, just some PowerShell and tools that are already built into Windows.
 
-### What It Looks Like in Action
+## What It Looks Like in Action
 
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/edcc0e6e-f4be-4a9d-a134-2015423c942b" />
 
