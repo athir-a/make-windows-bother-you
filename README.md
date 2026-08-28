@@ -522,3 +522,5 @@ No packages.
 No libraries to install.
 
 Just **PowerShell + Task Scheduler**, both already sitting on your Windows PC waiting to be mildly annoying.
+
+I've also created popup2.ps1 which, lets you enter affirmations or messages which will show up as popups randomly. :D
