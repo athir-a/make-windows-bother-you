@@ -174,6 +174,10 @@ $wshell.Popup($message, 0, "IMPORTANT", 48)
 
 is always an option. 😭
 
+🎲 Randomized Messages
+
+If you don't want the same message to appear every time, you can give your PC a whole list of messages and let PowerShell randomly pick one whenever the task runs. This is in popup2.ps1
+
 ---
 
 # 3. Open Task Scheduler
@@ -522,5 +526,3 @@ No packages.
 No libraries to install.
 
 Just **PowerShell + Task Scheduler**, both already sitting on your Windows PC waiting to be mildly annoying.
-
-I've also created popup2.ps1 which, lets you enter affirmations or messages which will show up as popups randomly. :D
